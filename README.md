@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @regina-cavazos
 - 👀 I’m interested in technology, cloud computing, artificial intelligence and learning new skills
-- 🌱 I’m currently learning how to program for Internet of Things, learning assembler and how to apply more machine learning to my projects
+- 🌱 I’m currently learning how to program in Swift and Cybersecurity, learning about algorith,s and how to apply more machine learning to my projects
 - 💞️ I’m looking to collaborate on new projects related to engineering and computational systems
 - 📫 How to reach me at my professional mail: cavazosvregina@gmail.com
 
